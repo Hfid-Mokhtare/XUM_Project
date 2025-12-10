@@ -47,7 +47,6 @@ $_SESSION['last_activity'] = time();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Xpert Users Dashboard</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .navbar {
@@ -109,7 +108,6 @@ $_SESSION['last_activity'] = time();
         <nav class="navbar navbar-expand-lg navbar-light" style="background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
             <div class="container-fluid">
                 <a class="navbar-brand d-flex align-items-center" href="?page=users">
-                    <img src="assets/images/Logo.png" alt="Company Logo" style="height: 40px;" class="me-2">
                     <span class="fs-5 fw-bold text-primary">Xpert Users</span>
                 </a>
                 <div class="mx-auto w-50">
