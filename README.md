@@ -39,7 +39,7 @@ A preview of the main features of the application.
 ### Login and User Creation
 | Login | Create Account |
 | :---: | :---: |
-| ![Login Page](assets/screenshots/login.png) | ![Create Account Page](assets/screenshots/create_account.png) |
+| ![Login Page](assets/screenshots/login.png) | ![Create Account Page](assets/screenshots/create_acount.png) |
 
 ### User Management
 | User List | Add User | Edit User |
